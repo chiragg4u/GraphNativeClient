@@ -1,2 +1,3 @@
-# GraphNativeClient
-Native client to talk to Graph and Azure 
+# NativeClient-DotNet
+A WPF application that signs users in and calls the Azure AD Graph API
+"# GraphNativeClient" 
